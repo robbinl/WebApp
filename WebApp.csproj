@@ -264,12 +264,12 @@
     <Content Include="Scripts\popper.js.map" />
     <Content Include="Scripts\popper-utils.min.js.map" />
     <Content Include="Scripts\popper-utils.js.map" />
-    <Content Include="WebConnectStrings.config" />
-    <Content Include="WebConnectStrings.Debug.config">
-      <DependentUpon>WebConnectStrings.config</DependentUpon>
+    <Content Include="WebConnectionStrings.config" />
+    <Content Include="WebConnectionStrings.Debug.config">
+      <DependentUpon>WebConnectionStrings.config</DependentUpon>
     </Content>
-    <Content Include="WebConnectStrings.Release.config">
-      <DependentUpon>WebConnectStrings.config</DependentUpon>
+    <Content Include="WebConnectionStrings.Release.config">
+      <DependentUpon>WebConnectionStrings.config</DependentUpon>
     </Content>
   </ItemGroup>
   <ItemGroup>
